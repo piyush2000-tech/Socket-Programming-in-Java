@@ -1,0 +1,9 @@
+Steps to run this project:
+1. Install java in our system.
+2. First compile and run client.java
+3. Then send request to server
+3. Then compile and run server.java file:
+	3.1 for compile = javac server.java
+	3.2 for run = java server   in cmd.
+
+thanks :)
